@@ -13,8 +13,8 @@
 4. Запускаем настройки Zapret [service.bat]
 5. меняем типы подключения:
 
-  Switch Game Filter (enabled)
-  Switch ipset (any)
+  5.1 Switch Game Filter (enabled)
+  5.2 Switch ipset (any)
 
 Если пока вы это делали у вас был запущен Zapret то перезапустите его
 
