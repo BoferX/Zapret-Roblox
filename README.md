@@ -4,9 +4,9 @@
 
 Переходим к самому способу обхода
 
-2. В этом репозитории c документа list-general возьмите скопируйте все адреса сайтов и добавьте в файл по пути zapret-discord-youtube/lists/list-general.txt
+2. В этом репозитории c документа [list-general](https://github.com/BoferX/Zapret-Roblox/blob/main/list-general) возьмите скопируйте все адреса сайтов и добавьте в файл по пути zapret-discord-youtube/lists/list-general.txt
 
-3. В этом репозитории c документа IPlist возьмите скопируйте все IP и добавьте в файл по пути zapret-discord-youtube/lists/ipset-all.txt
+3. В этом репозитории c документа [IPlist](https://github.com/BoferX/Zapret-Roblox/blob/main/IPlist) возьмите скопируйте все IP и добавьте в файл по пути zapret-discord-youtube/lists/ipset-all.txt
 
 Изминение способ Zapret-discord
 
